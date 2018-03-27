@@ -14,6 +14,7 @@
 		0740FF4E20602C64004CBC70 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0740FF4C20602C64004CBC70 /* LaunchScreen.storyboard */; };
 		0740FF562060467B004CBC70 /* GuessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0740FF552060467B004CBC70 /* GuessViewController.swift */; };
 		0740FF58206046CC004CBC70 /* CreateQuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0740FF57206046CC004CBC70 /* CreateQuestionViewController.swift */; };
+		07F602B620642EF0006AFCCD /* Guess.swift in Sources */ = {isa = PBXBuildFile; fileRef = 07F602B520642EF0006AFCCD /* Guess.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0740FF4F20602C64004CBC70 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0740FF552060467B004CBC70 /* GuessViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessViewController.swift; sourceTree = "<group>"; };
 		0740FF57206046CC004CBC70 /* CreateQuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateQuestionViewController.swift; sourceTree = "<group>"; };
+		07F602B520642EF0006AFCCD /* Guess.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Guess.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				0740FF4020602C64004CBC70 /* AppDelegate.swift */,
+				07F602B520642EF0006AFCCD /* Guess.swift */,
 				0740FF552060467B004CBC70 /* GuessViewController.swift */,
 				0740FF57206046CC004CBC70 /* CreateQuestionViewController.swift */,
 				0740FF4C20602C64004CBC70 /* LaunchScreen.storyboard */,
@@ -146,6 +149,7 @@
 				0740FF562060467B004CBC70 /* GuessViewController.swift in Sources */,
 				0740FF4920602C64004CBC70 /* Mind_Flash.xcdatamodeld in Sources */,
 				0740FF4120602C64004CBC70 /* AppDelegate.swift in Sources */,
+				07F602B620642EF0006AFCCD /* Guess.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
